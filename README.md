@@ -1,2 +1,2 @@
 # hub-demo
-Basics of Git and Github
+Basics of Git and Github.
